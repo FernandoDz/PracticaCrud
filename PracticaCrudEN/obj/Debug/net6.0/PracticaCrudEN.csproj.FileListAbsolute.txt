@@ -1,0 +1,12 @@
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\bin\Debug\net6.0\PracticaCrudEN.deps.json
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\bin\Debug\net6.0\PracticaCrudEN.dll
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\bin\Debug\net6.0\PracticaCrudEN.pdb
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\PracticaCrudEN.csproj.AssemblyReference.cache
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\PracticaCrudEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\PracticaCrudEN.AssemblyInfoInputs.cache
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\PracticaCrudEN.AssemblyInfo.cs
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\PracticaCrudEN.csproj.CoreCompileInputs.cache
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\PracticaCrudEN.dll
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\refint\PracticaCrudEN.dll
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\PracticaCrudEN.pdb
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudEN\obj\Debug\net6.0\ref\PracticaCrudEN.dll

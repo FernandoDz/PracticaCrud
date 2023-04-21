@@ -1,0 +1,66 @@
+﻿@model PracticaCrudEN.Usuario
+
+@{
+    ViewData["Title"] = "Create";
+    List<PracticaCrudEN.Rol> roles = ViewBag.Roles as List<PracticaCrudEN.Rol>;
+}
+
+<h1>Crear Usuario</h1>
+<hr />
+<form asp-action="Create">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Correo" class="control-label"></label>
+                <input asp-for="Correo" class="form-control" />
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="RolId" class="control-label"></label>
+                <select asp-for="RolId" class="form-control">
+                    <option selected value="">SELECCIONAR</option>
+                    @foreach (var item in roles)
+                    {
+                            <option value="@item.Id">@item.Nombre</option>
+                    }
+                </select>
+                <span asp-validation-for="RolId" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-dark">Cancelar</a>
+            </div>
+            <span class="text-danger">@ViewBag.Error</span>
+        </div>
+    </div>
+</form>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

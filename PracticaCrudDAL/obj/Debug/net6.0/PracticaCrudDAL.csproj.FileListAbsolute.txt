@@ -1,0 +1,15 @@
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\bin\Debug\net6.0\PracticaCrudDAL.deps.json
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\bin\Debug\net6.0\PracticaCrudDAL.dll
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\bin\Debug\net6.0\PracticaCrudDAL.pdb
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\bin\Debug\net6.0\PracticaCrudEN.dll
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\bin\Debug\net6.0\PracticaCrudEN.pdb
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\PracticaCrudDAL.csproj.AssemblyReference.cache
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\PracticaCrudDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\PracticaCrudDAL.AssemblyInfoInputs.cache
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\PracticaCrudDAL.AssemblyInfo.cs
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\PracticaCrudDAL.csproj.CoreCompileInputs.cache
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\PracticaCrudDAL.csproj.CopyComplete
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\PracticaCrudDAL.dll
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\refint\PracticaCrudDAL.dll
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\PracticaCrudDAL.pdb
+C:\Users\dfer4\source\repos\PracticaCrud\PracticaCrudDAL\obj\Debug\net6.0\ref\PracticaCrudDAL.dll
