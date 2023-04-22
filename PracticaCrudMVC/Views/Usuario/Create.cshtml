@@ -43,6 +43,7 @@
                     @foreach (var item in roles)
                     {
                             <option value="@item.Id">@item.Nombre</option>
+                        <option value="@item.Id">@item.Descripcion</option>
                     }
                 </select>
                 <span asp-validation-for="RolId" class="text-danger"></span>
