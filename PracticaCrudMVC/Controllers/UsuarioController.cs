@@ -69,7 +69,7 @@ namespace PracticaCrudMVC.Controllers
 
             var taskObtenerTodosRoles = rolBL.ObtenerTodosAsync();
             var usuario = await usuarioBL.ObtenerPorIdAsync(pUsuario);
-            ViewBag.Roles = await usuarioBL.ObtenerPorIdAsync(pUsuario);
+            ViewBag.Roles = await rolBL.ObtenerTodosAsync();
             ViewBag.Error = "";
             return View(usuario);
         }
